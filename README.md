@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Image](https://miro.medium.com/v2/resize:fit:17400/1*qdhXB1od9VlUiMv22YwbzQ.png)
 <!--
 **pyinto/pyinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
